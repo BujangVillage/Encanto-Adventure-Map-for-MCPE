@@ -49,12 +49,28 @@
   ],
   "Map": [
     {
-      "name": "",
-      "role": "",
-      "image": "",
-      "file_url": "",
-      "imgcoversatu": "",
-      "imgcoverdua": ""
+        "name": "Casita from'Encanto'",
+        "role": "This is La Casa Madrigal or Casita from Disney's 'Encant0'. The rooms you can go inside are Antonio's Room, Bruno's room inside the walls, Bruno's Tower and Isabela's Room ( it'll tp you when you go inside. Can't fit those massive rooms in the house of course).",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Encanto/2/3.jpeg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Encanto/2/La Casa Madrigal.mcworld",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Encanto/2/2.jpeg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Encanto/2/1.jpeg"
+    },
+    {
+        "name": "Encanto Adventure",
+        "role": "Live a magical adventure with charm in where you will discover the magic of family madrigal, entering a unique experience and appreciating its charm.The enchantment includes the house of the madrigal family, the house is identical to the one in the movie with the interior and all rooms decorated and thewonderful town of charm and remember ¡We don't talk about Bruno!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Encanto/3/empat.jpeg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Encanto/3/ENCANTO_ADVENTURE.mcworld",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Encanto/3/empat.jpeg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Encanto/3/dua.jpeg"
+    },
+    {
+        "name": "Encanto - Casita Madrigal",
+        "role": "The new Disney movie Encanto has arrived in Minecraft! Now you can visit the madrigal family house, the house is identical to the movie with interior and all decorated rooms.Download now and enjoy!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Encanto/1/enam.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Encanto/1/[Encanto] Casita.mcworld",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Encanto/1/empat.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Encanto/1/dua.png"
     }
   ],
   "Texture": [
